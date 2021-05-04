@@ -12,14 +12,14 @@ Coloque as respostas as perguntas abaixo(Q1, Q2, Q3 e Q4) no arquivo resposta.md
 
 Q1-Este sistema especialista (sistema-especialista-dinossauro) faz as perguntas de forma dinâmica ou seja nem sempre as mesmas perguntas são exibidas ao usuário, ou sempre as mesmas perguntas são exibidas ao usuário, na mesma ordem?  (sim, não)
 
-# Não, sempre são exibidas as mesmas perguntas
+Não, sempre são exibidas as mesmas perguntas
 
 Q2-Este sistema especialista (sistema-especialista-dinossauro) usa a técnica de encadeamento para frente e encademento para trás, ou nenhuma delas? (sim, não ou não sei)
 
-# Não sei
+Não sei
 
 Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base de conhecimento baseada em regras do tipo "SE (antecedente)-ENTÃO (consequente)"? (sim, não ou não sei)
-# Sim
+Sim
 
 (opcional) Q4-Qual técnica esse "sistema especialista" utiliza? 
 
